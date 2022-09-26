@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cache_demo" />
+        <module name="hello" />
+        <module name="springboot_08_ssmp" />
+        <module name="jedis_demo" />
+        <module name="springdataredis_demo" />
+        <module name="rw_demo" />
+        <module name="reggie_taeke_out" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="8" />
+      <module name="hel" target="1.8" />
+      <module name="hello" target="8" />
+      <module name="shiyan" target="8" />
+      <module name="tomal" target="8" />
+      <module name="tomcat-demo1" target="8" />
+      <module name="travel" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cache_demo" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="hel" options="-parameters" />
+      <module name="hello" options="" />
+      <module name="reggie_taeke_out" options="-parameters" />
+      <module name="rw_demo" options="-parameters" />
+      <module name="springboot_08_ssmp" options="-parameters" />
+      <module name="springdataredis_demo" options="-parameters" />
+    </option>
+  </component>
+</project>

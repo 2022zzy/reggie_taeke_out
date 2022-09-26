@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servlet-api (4)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../linux/hel/src/main/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

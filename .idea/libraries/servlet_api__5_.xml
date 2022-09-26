@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servlet-api (5)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../linux/tomal/src/main/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
